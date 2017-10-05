@@ -1,0 +1,6 @@
+D:\rahulbajracharya\Monitor\Monitor\Performance\bin\Debug\Performance.exe.config
+D:\rahulbajracharya\Monitor\Monitor\Performance\bin\Debug\Performance.exe
+D:\rahulbajracharya\Monitor\Monitor\Performance\bin\Debug\Performance.pdb
+D:\rahulbajracharya\Monitor\Monitor\Performance\obj\Debug\Performance.csprojResolveAssemblyReference.cache
+D:\rahulbajracharya\Monitor\Monitor\Performance\obj\Debug\Performance.exe
+D:\rahulbajracharya\Monitor\Monitor\Performance\obj\Debug\Performance.pdb

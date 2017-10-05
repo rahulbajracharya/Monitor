@@ -1,0 +1,17 @@
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Monitor.Core.exe.config
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Monitor.Core.exe
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Monitor.Core.pdb
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\AutoMapper.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Dapper.Contrib.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Dapper.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Monitor.Data.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Newtonsoft.Json.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\EntityFramework.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Monitor.Data.pdb
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\AutoMapper.xml
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Dapper.xml
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\Newtonsoft.Json.xml
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\bin\Debug\EntityFramework.xml
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\obj\Debug\Monitor.Core.csprojResolveAssemblyReference.cache
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\obj\Debug\Monitor.Core.exe
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Core\obj\Debug\Monitor.Core.pdb

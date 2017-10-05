@@ -1,0 +1,17 @@
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\Monitor.Data.dll.config
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\Monitor.Data.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\Monitor.Data.pdb
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\AutoMapper.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\Dapper.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\EntityFramework.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\AutoMapper.xml
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\Dapper.xml
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\EntityFramework.xml
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\obj\Debug\Monitor.Data.Migrations.initialCreate.resources
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\obj\Debug\Monitor.Data.Migrations.initialCreate1.resources
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\obj\Debug\Monitor.Data.Migrations.initialCreate2.resources
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\obj\Debug\Monitor.Data.csproj.GenerateResource.Cache
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\obj\Debug\Monitor.Data.dll
+D:\rahulbajracharya\Monitor\Monitor\Monitor.Data\obj\Debug\Monitor.Data.pdb
